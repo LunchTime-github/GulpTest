@@ -14,7 +14,7 @@
     "@babel/register": "^7.6.2",
     "gulp": "^4.0.2"
   },
-  "main": "index.js",
+  "main": "build/index.html",
   "author": "LunchTime-github <hiyoon9@gmail.com>",
   "dependencies": {
     "delete": "^1.1.0",
