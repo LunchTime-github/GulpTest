@@ -1,0 +1,19 @@
+{
+  "name": "gulptest",
+  "version": "1.0.0",
+  "description": "Gulp Test Study",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LunchTime-github/GulpTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LunchTime-github/GulpTest/issues"
+  },
+  "homepage": "https://github.com/LunchTime-github/GulpTest#readme"
+}
