@@ -1,2 +1,0 @@
-# GulpTest
-Gulp Test Study
